@@ -1,4 +1,8 @@
 # first-repo
 Repo for Git-and-GitHub Lab for Programming Fundamentals 2017
 
-Testing new branch called testBranch
+
+
+
+
+Test the new branch called testBranch and making conflict
